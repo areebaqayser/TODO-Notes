@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "95835673226",
+    "project_id": "areebatodo",
+    "storage_bucket": "areebatodo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95835673226:android:13356d1f69863f23dc1373",
+        "android_client_info": {
+          "package_name": "com.example.areebatodo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIMZTUdjvHLQIBE6duGSazbzjKczYlDGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
